@@ -1,9 +1,9 @@
-<h1 align="center">TBombElite v1.0b</h1>
+<h1 align="center">TBombElite v1.0</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
 
-**Due misusing of TBombElite, several API's died.**  
+**Due misusing of TBomb, several API's died.**  
 **Don't be afraid if you don't see all send messages.**
 
 - The script requires working network connection to work.
@@ -95,7 +95,7 @@ chmod +x TBombElite.sh
 
 # Missing Tools on MacOS
 
-Toilet cannot be installed yet. But TBomb does still work.
+Toilet cannot be installed yet. But TBombElite does still work.
 
 # Run TBombElite:
 
